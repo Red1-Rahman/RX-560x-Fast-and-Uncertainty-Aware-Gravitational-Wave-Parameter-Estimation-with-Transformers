@@ -7,8 +7,12 @@ This project demonstrates a lightweight Transformer neural network for rapid gra
 - **Uncertainty Quantification**: Gaussian likelihood head provides prediction confidence intervals
 - **Interactive Demo**: Streamlit web application for real-time parameter estimation
 - **CPU Training**: Trained efficiently on consumer hardware in ~4 hours
-- **Realistic Data**: Trained on 800 synthetic waveforms with detector noise
+- **Data**: Trained on 800 synthetic waveforms with detector noise
 
 The Transformer architecture leverages attention mechanisms to capture temporal dependencies in gravitational wave signals, achieving competitive accuracy while maintaining computational efficiency. This approach enables real-time parameter estimation for gravitational wave astronomy applications.
+
+## License
+
+This project is proprietary software. All rights reserved. Usage requires explicit written permission from the author. See [LICENSE](LICENSE) for details.
 
 **Created by [Redwan Rahman](https://redwan-rahman.netlify.app)**
