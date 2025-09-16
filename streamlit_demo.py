@@ -355,5 +355,9 @@ def main():
             - Training time: ~4 hours (CPU)
             """)
 
+    # Add footer at the end of the Streamlit app
+    st.markdown("---")
+    st.markdown("Created by [Redwan Rahman](https://redwan-rahman.netlify.app)")
+
 if __name__ == "__main__":
     main()
